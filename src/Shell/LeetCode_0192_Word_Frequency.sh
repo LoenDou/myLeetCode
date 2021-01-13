@@ -1,0 +1,1 @@
+awk '{for(i=1;i<=NF;i++){arr[$i]++;}};END{for(w in arr){print w,arr[w];}}' words.txt | sort -rn -k 2
