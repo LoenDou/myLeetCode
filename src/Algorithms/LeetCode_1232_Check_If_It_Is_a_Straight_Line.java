@@ -3,7 +3,7 @@ package Algorithms;
 /**
  * @author Dou
  * @version 1.0
- * @description
+ * @description 函数
  * @date 1/18/2021 14:06
  */
 public class LeetCode_1232_Check_If_It_Is_a_Straight_Line {
