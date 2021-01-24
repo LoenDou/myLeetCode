@@ -9,7 +9,7 @@ import java.util.Set;
  * @description 并查集
  * @date 1/15/2021 2:06
  */
-public class LeetCode_947_Most_Stones_Removed_with_Same_Row_or_Column {
+public class LeetCode_0947_Most_Stones_Removed_with_Same_Row_or_Column {
     private static void union(int[] parents,int index1,int index2){
         int pRoot = find(parents,index1);
         int qRoot = find(parents,index2);

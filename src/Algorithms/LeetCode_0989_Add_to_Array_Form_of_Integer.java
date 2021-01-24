@@ -9,7 +9,7 @@ import java.util.List;
  * @description
  * @date 1/23/2021 21:42
  */
-public class LeetCode_989_Add_to_Array_Form_of_Integer {
+public class LeetCode_0989_Add_to_Array_Form_of_Integer {
     public List<Integer> addToArrayForm(int[] A, int K) {
         if (A == null || A.length == 0){
             return new LinkedList<>();

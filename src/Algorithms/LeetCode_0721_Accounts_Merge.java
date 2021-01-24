@@ -8,7 +8,7 @@ import java.util.*;
  * @description 并查集
  * @date 1/18/2021 20:55
  */
-public class LeetCode_721_Accounts_Merge {
+public class LeetCode_0721_Accounts_Merge {
     private static void union(int[] parents,int index1,int index2){
         parents[find(parents,index1)] = find(parents,index2);
     }

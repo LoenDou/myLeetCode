@@ -6,7 +6,7 @@ package Algorithms;
  * @description
  * @date 1/20/2021 12:17
  */
-public class Leetcode_628_Maximum_Product_of_Three_Numbers {
+public class Leetcode_0628_Maximum_Product_of_Three_Numbers {
     public static int maximumProduct(int[] nums) {
         //全为正或者全为负的时候 三个最大数相乘乘积为最大数
         //有正有负时 两个最小的数与最大数的乘积为最大数
