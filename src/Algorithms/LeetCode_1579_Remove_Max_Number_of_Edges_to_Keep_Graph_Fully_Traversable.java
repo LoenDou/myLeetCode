@@ -3,7 +3,7 @@ package Algorithms;
 /**
  * @author Dou
  * @version 1.0
- * @description
+ * @description 并查集
  * @date 1/27/2021 21:51
  */
 public class LeetCode_1579_Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable {
