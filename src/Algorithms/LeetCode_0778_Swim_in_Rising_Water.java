@@ -10,7 +10,7 @@ import java.util.List;
  * @description
  * @date 1/30/2021 22:19
  */
-public class LeetCode_778_Swim_in_Rising_Water {
+public class LeetCode_0778_Swim_in_Rising_Water {
     public int swimInWater(int[][] grid) {
         if (grid == null || grid.length == 0) {
             return -1;

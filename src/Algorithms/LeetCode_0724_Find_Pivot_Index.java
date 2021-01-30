@@ -6,7 +6,7 @@ package Algorithms;
  * @description
  * @date 1/29/2021 2:57
  */
-public class LeetCode_724_Find_Pivot_Index {
+public class LeetCode_0724_Find_Pivot_Index {
     public int pivotIndex(int[] nums) {
         if (nums == null || nums.length == 0) {
             return -1;
