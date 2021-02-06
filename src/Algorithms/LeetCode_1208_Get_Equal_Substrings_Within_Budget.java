@@ -1,4 +1,4 @@
-package Algorithms.LeetCode_1208;
+package Algorithms;
 
 /**
  * @author Dou
@@ -6,7 +6,7 @@ package Algorithms.LeetCode_1208;
  * @description
  * @date 2/5/2021 23:07
  */
-public class _Get_Equal_Substrings_Within_Budget {
+public class LeetCode_1208_Get_Equal_Substrings_Within_Budget {
     public int equalSubstring(String s, String t, int maxCost) {
         if (s == null || s.length() == 0 || t == null || t.length() == 0){
             return 0;
