@@ -1,4 +1,4 @@
-package Algorithms.LeetCode_1423;
+package Algorithms;
 
 import java.util.Arrays;
 
@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @description
  * @date 2/7/2021 0:02
  */
-public class _Maximum_Points_You_Can_Obtain_from_Cards {
+public class LeetCode_1423_Maximum_Points_You_Can_Obtain_from_Cards {
     public int maxScore(int[] cardPoints, int k) {
         if (cardPoints == null || cardPoints.length == 0 || k == 0){
             return 0;
