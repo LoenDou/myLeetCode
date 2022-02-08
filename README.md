@@ -1,2 +1,3 @@
 # myLeetCode
-Some record of my LeetCode answers.
+Some record of my(a noob) LeetCode answers.
+
