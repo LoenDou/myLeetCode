@@ -2,7 +2,7 @@ package Algorithms;
 
 import java.util.HashMap;
 
-public class LeetCode_169_Majority_Element {
+public class LeetCode_0169_Majority_Element {
     public int majorityElement1(int[] nums) {
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {

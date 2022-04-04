@@ -1,6 +1,6 @@
 package Algorithms;
 
-public class LeetCode_240_Search_a_2D_Matrix_II {
+public class LeetCode_0240_Search_a_2D_Matrix_II {
     public boolean searchMatrix(int[][] matrix, int target) {
         if(matrix == null || matrix.length == 0){
             return false;
